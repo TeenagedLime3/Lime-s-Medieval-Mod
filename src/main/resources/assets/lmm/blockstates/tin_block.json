@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lmm:block/tin_block" }
+  }
+}

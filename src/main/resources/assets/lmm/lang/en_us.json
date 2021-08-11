@@ -1,0 +1,47 @@
+{
+  "itemGroup.lmmgroup": "Lime's Medieval Mod Tab",
+
+  //bronze
+  "item.lmm.raw_bronze": "Raw Bronze",
+  "item.lmm.bronze_ingot": "Bronze Ingot",
+  "item.lmm.bronze_coin": "Bronze Coin",
+  "item.lmm.bronze_nugget": "Bronze Nugget",
+  "block.lmm.bronze_block": "Bronze Block",
+  //silver
+  "item:lmm:raw_silver": "Raw Silver",
+  "item:lmm:silver_ingot": "Silver Ingot",
+  "item.lmm.silver_coin": "Silver Coin",
+  "item.lmm.silver_nugget": "Silver Nugget",
+  "block.lmm.silver_block": "Silver Block",
+  //steel
+  "item.lmm.steel_blend": "Steel Blend",
+  "item.lmm.steel_ingot": "Steel Ingot",
+  "block.lmm.steel_block": "Steel Block",
+  "item.lmm.steel_nugget": "Steel Nugget",
+  //tin
+  "item.lmm.raw_tin": "Raw Tin",
+  "item.lmm.tin_ingot": "Tin Ingot",
+  "item.lmm.tin_nugget": "Tin Nugget",
+  "block.lmm.tin_block": "Tin Block",
+
+  //other
+  "item.lmm.gold_coin": "Gold Coin"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
